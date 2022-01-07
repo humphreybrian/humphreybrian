@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/brianhumphrey_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbrianhumphrey_&screen_name=brianhumphrey_)
 
-## I'm a FPV drone pilot, Developer, Real estate developer!!
+## I'm a FPV drone pilot, Software Developer, Real estate developer and part time biker!!
 
 - 🔭 I’m currently working on UAV-EA for pilots
 - 🌱 I’m currently learning python and data engineering.
@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with reading data in android app from 5.8 ghz frequency.
 - 💬 Ask me about Drones and UAV-EA.
 - 📫 How to reach me: email - humphreybrian43@gmail.com.
-- 😄 Pronouns: ...
+#- 😄 Pronouns: ...
 - ⚡ Fun fact: Motor KV describes the RPM a motor does per voltage supplied.
 
 ## Languages and Tools:
