@@ -4,9 +4,9 @@
 
 ## I'm a FPV drone pilot, Software Developer, Real estate investor and part time biker!!
 
-- 🔭 I’m currently working on UAV-EA for pilots
+- 🔭 I’m currently working on UAV-EA for pilots, recommendation system for travelers and real estate web apps. 
 - 🌱 I’m currently learning python and data engineering.
-- 👯 I’m looking to collaborate on.
+- 👯 I’m looking to collaborate on awesome web, mobile and automation projects.
 - 🤔 I’m looking for help with reading data in android app from 5.8 ghz frequency.
 - 💬 Ask me about Drones and UAV-EA.
 - 📫 How to reach me: email - humphreybrian43@gmail.com. 😄
