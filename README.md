@@ -23,4 +23,14 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <!--START_SECTION:waka-->
+
+```text
+SQL              12 hrs 6 mins   █████████████████░░░░░░░░   68.63 %
+Python           4 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
+PHP              35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Text             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Bash             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+INI              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+```
+
 <!--END_SECTION:waka-->
