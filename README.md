@@ -11,8 +11,6 @@
 - 💬 Ask me about Drones and UAV-EA.
 - 📫 How to reach me: twitter - @brianhumphrey_. 😄
 - ⚡ Fun fact: Motor KV describes the RPM a motor does per voltage supplied.
-- microsite example https://bit.ly/3rg8O8G
-- Resume : https://docs.google.com/document/d/1BeHydRDS2uHKhQ52-zakECY5ElbL1qNbUdAoG1F1KuA/edit
 
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
