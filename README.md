@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on awesome web, mobile and automation projects.
 - 🤔 I’m looking for help with reading data in android app from 5.8 ghz frequency.
 - 💬 Ask me about Drones and UAV-EA.
-- 📫 How to reach me: email - humphreybrian43@gmail.com. 😄
+- 📫 How to reach me: twitter - @brianhumphrey_. 😄
 - ⚡ Fun fact: Motor KV describes the RPM a motor does per voltage supplied.
 - microsite example https://bit.ly/3rg8O8G
 - Resume : https://docs.google.com/document/d/1BeHydRDS2uHKhQ52-zakECY5ElbL1qNbUdAoG1F1KuA/edit
